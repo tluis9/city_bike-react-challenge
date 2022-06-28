@@ -1,0 +1,8 @@
+.table-hover tr:hover{ cursor:pointer; } 
+.Subscriber { background-color: rgb(250, 217, 202); color: black; } 
+.Customer { background-color: rgb(192, 110, 110); color: black; } 
+.sub { background-color: antiquewhite;}
+.cus { background-color: rgb(192, 110, 110);}
+.float-right {
+    display: inline-flex;
+}
