@@ -30,9 +30,9 @@ function Trip() {
   };
 
   const handleChange = (e) => {
-    let target = e.target; // the element that initiated the event
-    let value = null; // its value
-    let name = target.name; // its name
+    let target = e.target;
+    let value = null; 
+    let name = target.name; 
 
     if (target.type === "checkbox") {
       value = target.checked;
